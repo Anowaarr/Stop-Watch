@@ -31,3 +31,5 @@ counters.map((item) => {
         }
     }, 20);
 });
+
+
