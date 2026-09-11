@@ -16,7 +16,6 @@ function startWatch() {
         time.innerHTML = Count;
     }, 1000)
 }
-
 function stopWatch() {
     clearInterval(interval);
 }
